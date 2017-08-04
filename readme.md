@@ -6,8 +6,9 @@ These tools were created many years ago out of curiosity to extract some informa
 
 
 ### usage:
-* id_to_name.py to scrape profile information
-* analyzerm.py to create gephi format graphs from gathered information
+* id_to_name.py - scrape profile information
+* analyzerm.py - create gephi format graphs from gathered information
+* communi.py - stand alone tool to create community graphs with a certain user as the starting node
 
 ### notes:
 * adjust parameters as needed in the source
