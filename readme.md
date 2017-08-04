@@ -1,4 +1,4 @@
-# analyserm
+# analyzerm
 ## some crude python tools
 
 readmore.de is a German website dedicated to e-sports coverage.
